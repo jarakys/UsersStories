@@ -19,3 +19,4 @@ There is a root component that manages the flow of Users and allows seamless int
 
 Additionally, I showcased my flexible approach to navigation in SwiftUI, which has already been tested in commercial projects and proven to be efficient and scalable.
 
+PS: I forget to add error handling, we can do that easy, using .alert(isPresented: error:)..., on UsersView and StoriesView
